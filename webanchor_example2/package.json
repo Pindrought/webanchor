@@ -1,0 +1,12 @@
+{
+	"author": "Pindrought",
+	"version": "1.0",
+    "client_scripts":    [
+        "client.lua"
+    ],
+    "files": 
+    [
+        "color.html",
+        "color.js"
+    ]
+}
